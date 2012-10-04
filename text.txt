@@ -1,4 +1,1 @@
-lower letters
-
-whoops no capital letters
-UPPER
+only lower case letters are allowed in this file 
