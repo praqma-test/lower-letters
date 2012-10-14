@@ -1,2 +1,2 @@
 only lower case letters are allowed in this file
-I guess this is right then
+i guess this is right then
