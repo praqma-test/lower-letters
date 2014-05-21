@@ -22,3 +22,4 @@ fauk
 hello
 mergeconflict
 fauk
+fail
