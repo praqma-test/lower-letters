@@ -1,5 +1,2 @@
 "Hello world" 
-hej
-hej2
-dav
-dav2
+Version 2.2.0-Test
