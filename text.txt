@@ -14,3 +14,53 @@ big mistake fixed
 integrate this
 not integrate
 integrate
+integrateagain
+yes
+yes
+yes
+fauk
+hello
+mergeconflict
+fauk
+fail
+notfail
+notfailagain
+yes
+small
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hello
+hey
+hey
+heymultiscm
+multiscm
+lala 
+multikultidulti
+some new text
+some more text
+some text second time
+some more text second time
+
+texty text
+some more texty text text
+some case
+some case again
