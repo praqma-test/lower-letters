@@ -1,5 +1,5 @@
 #!/bin/bash -x
-cat text.txt | grep [A-Z]
+grep [A-Z] text.txt
 if [ $? -eq 0 ]
 then
   echo Failure: Found uppercase letters
